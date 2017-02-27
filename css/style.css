@@ -19,3 +19,8 @@ body {
 .navbar {
 	background: #000000;
 }
+
+.jumbotron {
+  background-image: url("../img/ToesinSand2.jpg");
+  background-size: cover;
+}
